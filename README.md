@@ -18,6 +18,23 @@ The system processes hotel review datasets and provides:
 - CSV export and reporting
 
 The project was developed as a Master's graduation project and is being prepared as a professional open-source AI repository.
+## Screenshots
+
+### Main Interface
+
+![E-Reputation AI Main Interface](screenshots/01-main-interface.png)
+
+### Sentiment Analysis
+
+![Sentiment Analysis](screenshots/03-sentiment-analysis.png)
+
+### Business Dashboard
+
+![Business Dashboard](screenshots/05-business-dashboard.png)
+
+### AI Recommendations
+
+![AI Recommendations](screenshots/06-ai-recommendations.png)
 
 ## Core Pipeline
 
