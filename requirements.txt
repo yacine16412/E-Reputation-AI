@@ -1,0 +1,17 @@
+# Core application
+streamlit
+pandas
+numpy
+
+# NLP / ML
+torch
+transformers
+sentence-transformers
+scikit-learn
+
+# Data / visualization
+matplotlib
+plotly
+
+# Utilities
+regex
